@@ -1,3 +1,14 @@
+
+## HOW TO USE PRODUCT UPLOAD API
+## CLONE THIS REPO
+## RUN NPM INSTALL ON THE FOLDER HOUSING THIS CODE
+## THEN RUN NPM START
+
+> first route / allows creation of product and image upload 
+> on completed  /preview/:id route allows viewing product details
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
